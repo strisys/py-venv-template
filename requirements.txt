@@ -1,0 +1,12 @@
+ipykernel
+python-dotenv
+pyyaml
+pyodbc
+pandas
+numpy
+SQLAlchemy
+bokeh
+seaborn
+plotly
+openai
+pydantic
