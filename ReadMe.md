@@ -4,7 +4,7 @@
 
 1. Open VSCode in the current directory and then open a terminal window.
 2. Verify python3 is installed (`py --version` or  `python3 --version `or `python --version`).
-3. Run `py -m venv .venv` or `python3 -m venv .venv` to create a virtual environment.
+3. Run create-venv.ps1 using pwsh.
 4. Select the main.py and verify the virtual environment is activated (see [image](./docs/1.png))
 5. Run `pip install -r requirements.txt` to install the packages in the requirements.txt file.  The default packages are as follows, so change them as needed.
    - **ipykernel**: Provides the IPython kernel for Jupyter notebooks.
